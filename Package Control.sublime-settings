@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Advanced CSV",
+		"Apache Hive",
+		"AutoDocstring",
+		"AutoPEP8",
+		"BracketHighlighter",
+		"CodeFormatter",
+		"Git",
+		"GitGutter",
+		"LaTeXTools",
+		"Markdown Preview",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"SublimeLinter-pep8",
+		"SublimeREPL",
+		"SyncedSidebarBg"
+	]
+}
