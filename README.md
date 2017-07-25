@@ -4,7 +4,7 @@ My Sublime Text 3 configuration settings.
 
 ## Installation
 
-0.[ Install Package Control](https://packagecontrol.io/installation) in Sublime Text 3
+0. [Install Package Control](https://packagecontrol.io/installation) in Sublime Text 3
 
 1. Clone this repository in Sublime's directory as `Packages/User'
 
