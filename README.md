@@ -32,6 +32,3 @@ My Sublime Text 3 configuration settings.
 * SublimeLinter-flake8
 * SublimeLinter-pep8
 * SyncedSidebarBg
-
-
-
