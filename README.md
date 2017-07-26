@@ -46,6 +46,7 @@ My Sublime Text 3 configuration settings.
 * Git
 * GitGutter
 * LaTeXTools
+* Markdown Extended
 * Markdown Preview
 * Monokai Extended
 * Package Control
