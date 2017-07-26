@@ -11,16 +11,17 @@
 		"AutoPEP8",
 		"BracketHighlighter",
 		"CodeFormatter",
+		"Color Highlighter",
 		"Git",
 		"GitGutter",
 		"LaTeXTools",
 		"Markdown Preview",
+		"Monokai Extended",
 		"Package Control",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-flake8",
-		"SublimeLinter-pep8",
 		"SublimeREPL",
 		"SyncedSidebarBg"
 	]

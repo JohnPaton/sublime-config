@@ -4,13 +4,29 @@ My Sublime Text 3 configuration settings.
 
 ## Installation
 
-0. [Install Package Control](https://packagecontrol.io/installation) in Sublime Text 3
+0. [Install Package Control](https://packagecontrol.io/installation) in Sublime Text 3 and exit Sublime
 
 1. Clone this repository in Sublime's directory as `Packages/User'
+
+    * OSX: 
+    ```
+    cd "~/Library/Application Support/Sublime Text 3/Packages"
+    zip User_old.zip User
+    rm -r User
+    git clone https://github.com/johnpaton/sublime-config User
+    ```
+
+    * Windows:
+    ```
+    cd "~\AppData\Roaming\Sublime Text 3\Packages"
+    mv User ..\User_old
+    git clone https://github.com/johnpaton/sublime-config User
+    ```
 
 2. Install Python requirements
 
     ```
+    cd User
     pip install -r requirements.txt
     ```
 
@@ -25,10 +41,17 @@ My Sublime Text 3 configuration settings.
 * AutoDocstring
 * AutoPEP8
 * BracketHighlighter
+* CodeFormatter
+* Color Highlighter
 * Git
 * GitGutter
+* LaTeXTools
 * Markdown Preview
+* Monokai Extended
+* Package Control
 * SideBarEnhancements
+* SublimeCodeIntel
+* SublimeLinter
 * SublimeLinter-flake8
-* SublimeLinter-pep8
+* SublimeREPL
 * SyncedSidebarBg
