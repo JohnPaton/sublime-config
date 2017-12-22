@@ -1,9 +1,11 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Monokai Extended Bright (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"detect_indentation": false,
 	"ensure_newline_at_eof_on_save": true,
+	"font_size": 16,
 	"ignored_packages":
 	[
-		"GitGutter",
+		"DocBlockr_Python",
 		"Vintage"
 	],
 	"indent_to_bracket": true,
@@ -20,5 +22,7 @@
 		79,
 		100
 	],
+	"tab_size": 4,
+	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true
 }

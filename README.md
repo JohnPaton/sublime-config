@@ -33,26 +33,3 @@ My Sublime Text 3 configuration settings.
 3. Open Sublime and wait for packages to download (may take several minutes)
 
 4. Restart Sublime once all packages have downloaded
-
-## Included packages
-
-* Advanced CSV
-* Apache Hive
-* AutoDocstring
-* AutoPEP8
-* BracketHighlighter
-* CodeFormatter
-* Color Highlighter
-* Git
-* GitGutter
-* LaTeXTools
-* Markdown Extended
-* Markdown Preview
-* Monokai Extended
-* Package Control
-* SideBarEnhancements
-* SublimeCodeIntel
-* SublimeLinter
-* SublimeLinter-flake8
-* SublimeREPL
-* SyncedSidebarBg
