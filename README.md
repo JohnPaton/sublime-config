@@ -10,7 +10,7 @@ My Sublime Text 3 configuration settings.
 
     * OSX: 
     ```
-    cd "~/Library/Application Support/Sublime Text 3/Packages"
+    cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages
     zip User_old.zip User
     rm -r User
     git clone https://github.com/johnpaton/sublime-config User
@@ -18,7 +18,7 @@ My Sublime Text 3 configuration settings.
 
     * Windows:
     ```
-    cd "~\AppData\Roaming\Sublime Text 3\Packages"
+    cd '~\AppData\Roaming\Sublime Text 3\Packages'
     mv User ..\User_old
     git clone https://github.com/johnpaton/sublime-config User
     ```
