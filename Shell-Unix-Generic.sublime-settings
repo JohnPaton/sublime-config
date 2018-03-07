@@ -2,5 +2,8 @@
 	"extensions":
 	[
 		".zshrc"
-	]
+	],
+    "word_wrap": false,
+    "wrap_width": 80,
+    "indent_subsequent_lines": false,
 }

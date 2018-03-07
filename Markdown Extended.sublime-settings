@@ -2,5 +2,6 @@
 	"extensions":
 	[
 		"md"
-	]
+	],
+    "wrap_width": 0,
 }
