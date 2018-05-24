@@ -13,9 +13,11 @@
 		"BracketHighlighter",
 		"CodeFormatter",
 		"Color Highlighter",
+		"Crontab Syntax",
 		"DocBlockr_Python",
 		"Git",
 		"GitGutter",
+		"INI",
 		"JavaScript Snippets",
 		"LaTeXTools",
 		"Markdown Extended",
@@ -29,6 +31,7 @@
 		"SublimeLinter-annotations",
 		"SublimeLinter-flake8",
 		"SublimeLinter-pydocstyle",
+		"SublimeLinter-pyflakes",
 		"SublimeREPL",
 		"SyncedSidebarBg"
 	]
