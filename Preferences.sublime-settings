@@ -10,6 +10,7 @@
 	"ignored_packages":
 	[
 		"DocBlockr_Python",
+		"SublimeLinter",
 		"Vintage"
 	],
 	"indent_to_bracket": true,
