@@ -1,32 +1,5 @@
 {
-	"added_words":
-	[
-		"modelling"
-	],
-	"color_scheme": "Monokai.sublime-color-scheme",
-	"detect_indentation": false,
-	"ensure_newline_at_eof_on_save": true,
-	"font_size": 16,
-	"ignored_packages":
-	[
-		"DocBlockr_Python",
-		"Vintage"
-	],
-	"indent_to_bracket": true,
-	"match_brackets": false,
-	"match_brackets_angle": false,
-	"match_brackets_braces": false,
-	"match_brackets_content": false,
-	"match_brackets_square": false,
-	"match_tags": false,
-	"open_files_in_new_window": false,
-	"rulers":
-	[
-		72,
-		79,
-		100
-	],
-	"tab_size": 4,
-	"theme": "Adaptive.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"font_size": 15,
+	"theme": "Adaptive.sublime-theme"
 }
