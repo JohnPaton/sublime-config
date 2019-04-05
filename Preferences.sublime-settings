@@ -1,5 +1,11 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
 	"font_size": 15,
-	"theme": "Adaptive.sublime-theme"
+	"ignored_packages":
+	[
+		"MarkdownLivePreview",
+		"Vintage"
+	],
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": true
 }

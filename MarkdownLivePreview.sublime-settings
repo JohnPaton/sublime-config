@@ -1,5 +1,5 @@
 // Your settings for MarkdownLivePreview. See the default file to see the different options. 
 {
-    "markdown_live_preview_on_open": true
-
+    "markdown_live_preview_on_open": true,
+    "update_preview_every": 1
 }

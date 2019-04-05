@@ -1,4 +1,5 @@
 {
     "enable_mathjax": true,
-    "enable_autoreload": true
+    "enable_autoreload": true,
+    "parser": "github",
 }
