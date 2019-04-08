@@ -4,4 +4,6 @@
 		"md"
 	],
     "wrap_width": 0,
+    "spell_check": false,
+    "auto_complete": true,
 }
