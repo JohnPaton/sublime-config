@@ -11,6 +11,7 @@
 		"AutoDocstring",
 		"AutoPEP8",
 		"BracketHighlighter",
+		"Carbon",
 		"CodeFormatter",
 		"Color Highlighter",
 		"Crontab Syntax",
