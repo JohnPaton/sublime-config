@@ -38,6 +38,7 @@
 		"SublimeLinter-pydocstyle",
 		"SublimeLinter-pyflakes",
 		"SublimeREPL",
-		"SyncedSidebarBg"
+		"SyncedSidebarBg",
+		"Theme - Monokai Pro"
 	]
 }
