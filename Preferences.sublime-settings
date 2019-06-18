@@ -1,4 +1,8 @@
 {
+	"added_words":
+	[
+		"blog"
+	],
 	"color_scheme": "Monokai Classic.sublime-color-scheme",
 	"font_size": 15,
 	"ignored_packages":
