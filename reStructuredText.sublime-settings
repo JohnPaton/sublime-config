@@ -1,6 +1,6 @@
 // These settings override both User and Default settings for the reStructuredText syntax
 {
     "word_wrap": true,
-    "wrap_width": 80,
+    "wrap_width": 0,
     "tab_size": 3,
 }
