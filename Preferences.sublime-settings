@@ -11,5 +11,6 @@
 		"Vintage"
 	],
 	"theme": "Monokai Classic.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"remember_full_screen": true
 }
